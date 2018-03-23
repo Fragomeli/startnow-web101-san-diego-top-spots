@@ -1,0 +1,1 @@
+A list of San Diego Top Spots using JSON data

@@ -1,0 +1,42 @@
+html { 
+    background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/0a/8b/5f/41/downtown-san-diego-s.jpg)no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  } 
+.jumbotron {
+    height: 200px;
+    padding-top:3%;
+    padding-bottom: 1%;
+}
+
+table, tr, td {
+  border: 2px solid black;
+}
+
+table {
+    border-spacing: 15px 20px;
+    text-align: center;
+}
+a {
+  color: blueviolet;
+}
+h1 {
+  text-align:center;
+  text-decoration-color: lawngreen;
+}
+td {
+  text-align: left;
+}
+h1 {
+  letter-spacing: 5px;
+  text-shadow: 1px 1px 1px #000, 
+               3px 3px 5px lightblue;
+}
+#tagline {
+  color: greenyellow;
+  font-size: 30px;
+  text-shadow: 1px 1px 1px #000, 
+               3px 3px 5px lightblue;
+} 
